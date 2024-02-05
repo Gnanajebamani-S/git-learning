@@ -8,3 +8,4 @@ request.onload = function(){
    var capitalName = result.map((ele)=>ele.capital)
    console.log(capitalName)
 }
+
